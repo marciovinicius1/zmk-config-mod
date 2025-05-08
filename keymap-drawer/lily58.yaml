@@ -41,8 +41,8 @@ layers:
   - )
   - '~'
   - Caps Lock
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '='
+  - \
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}

@@ -88,9 +88,9 @@ layers:
   - '0'
   - {t: ▽, type: trans}
   - LEFT SHIFT
-  - Home
-  - PAGE UP
   - PAGE DOWN
+  - PAGE UP
+  - Home
   - End
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}

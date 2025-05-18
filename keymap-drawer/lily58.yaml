@@ -87,7 +87,7 @@ layers:
   - '9'
   - '0'
   - {t: ▽, type: trans}
-  - LEFT SHIFT
+  - $$mdi:apple-keyboard-control$$
   - PAGE DOWN
   - PAGE UP
   - Home
@@ -99,7 +99,7 @@ layers:
   - ↑
   - →
   - {t: ▽, type: trans}
-  - $$mdi:apple-keyboard-control$$
+  - LEFT SHIFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}

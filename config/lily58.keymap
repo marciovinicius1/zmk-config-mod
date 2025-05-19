@@ -9,6 +9,22 @@
 #include <dt-bindings/zmk/keys.h>
 
 / {
+    macros {
+        delete_world: delete_world {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RCTRL &kp BACKSPACE>;
+            label = "DELETE_WORLD";
+        };
+
+        delete_line: delete_line {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LEFT_SHIFT &kp HOME &kp BACKSPACE>;
+            label = "DELETE_LINE";
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 

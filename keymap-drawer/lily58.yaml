@@ -93,11 +93,11 @@ layers:
   - Home
   - End
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - ←
   - ↓
-  - ↑
+  - UP ARROW
   - →
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LEFT SHIFT
   - {t: ▽, type: trans}
